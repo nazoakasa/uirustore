@@ -8,6 +8,6 @@ com.uirusuniki.nonumberblock{
 com.uirusuniki.bangame{
   "name": "掲示BAN",
   "Description": "何一つ変わらないただの掲示板",
-  "image": "image/noimage.png",
+  "image": "image/Noimage.png",
   "apk": "app/bangame.apk"
 }
