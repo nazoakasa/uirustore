@@ -4,3 +4,9 @@ com.uirusuniki.nonumberblock{
   "image": "image/callblockicon.png",
   "apk": "app/nonumberblock.apk"
 }
+com.uirusuniki.bangame{
+  "name": "掲示BAN",
+  "Description": "何一つ変わらないただの掲示板",
+  "image": "image/noimage.png",
+  "apk": "app/bangame.apk"
+}
