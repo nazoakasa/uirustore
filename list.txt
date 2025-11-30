@@ -1,3 +1,5 @@
 com.uirusuniki.nonumberblock
 
 com.uirusuniki.bangame
+
+com.uirusuniki.localchecker
