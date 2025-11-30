@@ -11,3 +11,10 @@ com.uirusuniki.bangame{
   "image": "image/Noimage.png",
   "apk": "app/bangame.apk"
 }
+
+com.uirusuniki.localchecker{
+  "name": "ローカルチェッカー",
+  "Description": "ローカル環境にあるものを検知するソフトウェア",
+  "image": "image/Noimage.png",
+  "apk": "app/localchecker.apk"
+}
