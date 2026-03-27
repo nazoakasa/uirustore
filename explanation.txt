@@ -4,7 +4,7 @@ com.uirusuniki.nonumberblock{
   "image": "image/callblockicon.png",
   "apk": "app/nonumberblock.apk",
   "version":"1.0.0",
-  "versionCode":"1"
+  "versionCode":1
 }
 
 com.uirusuniki.bangame{
@@ -13,7 +13,7 @@ com.uirusuniki.bangame{
   "image": "image/Noimage.png",
   "apk": "app/bangame.apk",
   "version":"1.0.0",
-  "versionCode":"1"
+  "versionCode":1
 }
 
 com.uirusuniki.localchecker{
@@ -22,5 +22,5 @@ com.uirusuniki.localchecker{
   "image": "image/Noimage.png",
   "apk": "app/localchecker.apk",
   "version":"1.0.0",
-  "versionCode":"1"
+  "versionCode":1
 }
