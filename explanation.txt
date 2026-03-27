@@ -2,22 +2,25 @@ com.uirusuniki.nonumberblock{
   "name": "NoNumberBlock",
   "Description": "迷惑な非通知電話、ありませんか？NoNumberBlockなら、すべてブロックできます！！",
   "image": "image/callblockicon.png",
-  "apk": "app/nonumberblock.apk"
-  "version":"1.0.0"
+  "apk": "app/nonumberblock.apk",
+  "version":"1.0.0",
+  "versionCode":"1"
 }
 
 com.uirusuniki.bangame{
   "name": "掲示BAN",
   "Description": "何一つ変わらないただの掲示板",
   "image": "image/Noimage.png",
-  "apk": "app/bangame.apk"
-  "version":"1.0.0"
+  "apk": "app/bangame.apk",
+  "version":"1.0.0",
+  "versionCode":"1"
 }
 
 com.uirusuniki.localchecker{
   "name": "ローカルチェッカー",
   "Description": "ローカル環境にあるものを検知するソフトウェア",
   "image": "image/Noimage.png",
-  "apk": "app/localchecker.apk"
-  "version":"1.0.0"
+  "apk": "app/localchecker.apk",
+  "version":"1.0.0",
+  "versionCode":"1"
 }
