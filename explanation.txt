@@ -3,6 +3,7 @@ com.uirusuniki.nonumberblock{
   "Description": "迷惑な非通知電話、ありませんか？NoNumberBlockなら、すべてブロックできます！！",
   "image": "image/callblockicon.png",
   "apk": "app/nonumberblock.apk"
+  "version":"1.0.0"
 }
 
 com.uirusuniki.bangame{
@@ -10,6 +11,7 @@ com.uirusuniki.bangame{
   "Description": "何一つ変わらないただの掲示板",
   "image": "image/Noimage.png",
   "apk": "app/bangame.apk"
+  "version":"1.0.0"
 }
 
 com.uirusuniki.localchecker{
@@ -17,4 +19,5 @@ com.uirusuniki.localchecker{
   "Description": "ローカル環境にあるものを検知するソフトウェア",
   "image": "image/Noimage.png",
   "apk": "app/localchecker.apk"
+  "version":"1.0.0"
 }
