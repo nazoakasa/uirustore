@@ -24,3 +24,12 @@ com.uirusuniki.localchecker{
   "version":1.0.0,
   "versionCode":1
 }
+
+com.uirusuniki.downloader{
+  "name": "ダウンローダー",
+  "Description": "Androidの共有機能を使って簡単に動画をダウンロードできるアプリ",
+  "image": "image/Noimage.png",
+  "apk": "app/localchecker.apk",
+  "version":1.0.0,
+  "versionCode":1
+}
