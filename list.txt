@@ -4,4 +4,4 @@ com.uirusuniki.bangame
 
 com.uirusuniki.localchecker
 
-com.uirusuniki.localchecker
+com.uirusuniki.downloader
