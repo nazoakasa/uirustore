@@ -30,6 +30,6 @@ com.uirusuniki.downloader{
   "Description": "Androidの共有機能を使って簡単に動画をダウンロードできるアプリ",
   "image": "image/downloader.png",
   "apk": "https://store.uirusu.com/downloader.apk",
-  "version":1.2.0,
+  "version":1.2.1,
   "versionCode":3
 }
