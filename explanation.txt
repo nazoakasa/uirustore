@@ -31,5 +31,5 @@ com.uirusuniki.downloader{
   "image": "image/downloader.png",
   "apk": "https://store.uirusu.com/downloader.apk",
   "version":1.2.0,
-  "versionCode":1
+  "versionCode":2
 }
