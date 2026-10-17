@@ -35,7 +35,7 @@ com.uirusuniki.downloader{
 }
 
 com.uirusuniki.mediaremote{
-  "name": "Media Remote",
+  "name": "MediaRemote",
   "Description": "PC上で再生してるメディアをスマホでコントロールできます",
   "image": "image/Noimage.png",
   "apk": "app/mediaremote.apk",
