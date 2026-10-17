@@ -5,3 +5,5 @@ com.uirusuniki.bangame
 com.uirusuniki.localchecker
 
 com.uirusuniki.downloader
+
+com.uirusuniki.mediaremote
