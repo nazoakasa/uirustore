@@ -39,6 +39,6 @@ com.uirusuniki.mediaremote{
   "Description": "PC上で再生してるメディアをスマホでコントロールできます",
   "image": "image/Noimage.png",
   "apk": "app/mediaremote.apk",
-  "version": "1.0.0",
-  "versionCode": 1
+  "version": "1.0.2",
+  "versionCode": 2
 }
